@@ -1,4 +1,4 @@
-## Aidan Clark
+## Hey 👋 I'm Aidan
 
 ## About Me!
 
