@@ -3,7 +3,7 @@
 ## About Me!
 
  - 👨‍💻 Computer Science B.A. at Boston University, Data Science Minor (GPA 3.76)
- - 🔭 I'm exploring **Product Management** and **Business Intelligence**
+ - 🔭 I'm exploring **Product Management** and **Data Engineering**
  - 📫 Reach me by email at **ascoclark@gmail.com**
  - ⚡ Fun fact: I'm a huge 🏀 fan 🧡💙
 
