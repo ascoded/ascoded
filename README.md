@@ -16,6 +16,21 @@
 
 ## Projects!
 
+### [🎵 Reverbify](https://chromewebstore.google.com/detail/reverbify-remix-music-on/bnhjfbjmbgmgllkojikabliaidpihfnp)
+
+<br>
+
+🧠 **Why?** <br><br>
+I love Spotify, and I love remixing songs, as do millions of other music fans. So I made this extension to give every Spotify user the power to remix how they want & when they want with their favorite artists and playlists. <br><br>
+🛠️ **Tech Stack:** <br><br>
+  React · TypeScript · TailwindCSS · Figma · Python · Next.js <br><br>
+📈 **Contributions ➡️ Impacts** <br>
+  - 🔉 Synchronizing audio setting updates from multiple sources <br>➡️ Encourages limitless customization from various audio libraries!
+  - 💿 Integrated directly into Spotify Web Player <br>➡️ Allows users to remix from a curated library of their favorite music with a one click installation process!
+  - 🔗 Automate a remix pipeline of popular songs on a dedicated [YouTube channel](https://www.youtube.com/@reverbify-app) <br>➡️ Drives prospective users to the extension with $0 ad spend!
+  - ⭐ Remain highly responsive to 200+ users when platform changes & bugs arise <br>➡️ Maintains a 5 star rating on the Chrome Web Store!
+
+
 ### [🚀 CodeHive](https://github.com/orgs/Spark-Project-Pulse/repositories)
 
 <br>
@@ -27,8 +42,8 @@ Junior developers need a space to share their projects and receive feedback. Usi
 📈 **Contributions ➡️ Impacts** <br>
   - 🗺️ Orchestrated the product roadmap via Notion <br> ➡️ Easy to assign and complete tasks to iterate on the platform!
   - 🏷️ Custom tagging system <br>➡️ Easy to search for specific technologies relevant to your project & interests!
-  - 🎖️ Tiered badge system <br>➡️ Encourage platform engagement by gamifying the platform & rewarding quality feedback!
-  - 🧪 Weekly usability interviews <br>➡️ Ensure we solve for customer pain points and cater to unique user needs!
+  - 🎖️ Tiered badge system <br>➡️ Encourages platform engagement by gamifying the platform & rewarding quality feedback!
+  - 🧪 Weekly usability interviews <br>➡️ Ensures we solve for customer pain points and cater to unique user needs!
 
 <!--
 **ascoded/ascoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
