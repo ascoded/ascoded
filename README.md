@@ -25,10 +25,10 @@ I love Spotify, and I love remixing songs, as do millions of other music fans. S
 🛠️ **Tech Stack:** <br><br>
   React · TypeScript · TailwindCSS · Figma · Python · Next.js <br><br>
 📈 **Contributions ➡️ Impacts** <br>
-  - 🔉 Synchronizing audio setting updates from multiple sources <br>➡️ Encourages limitless customization from various audio libraries!
-  - 💿 Integrated directly into Spotify Web Player <br>➡️ Allows users to remix from a curated library of their favorite music with a one click installation process!
-  - 🔗 Automate a remix pipeline of popular songs on a dedicated [YouTube channel](https://www.youtube.com/@reverbify-app) <br>➡️ Drives prospective users to the extension with $0 ad spend!
-  - ⭐ Remain highly responsive to 250+ users when platform changes & bugs arise <br>➡️ Maintains a 5 star rating on the Chrome Web Store!
+  - 🔉 Synchronized audio setting updates from multiple sources <br>➡️ Encourages limitless customization from various audio libraries!
+  - 💿 Integrated directly into Spotify Web Player with an injection script <br>➡️ Allows users to remix from a curated library of their favorite music with a one click installation process!
+  - 🔗 Automated a remix pipeline of popular songs on a dedicated [YouTube channel](https://www.youtube.com/@reverbify-app) <br>➡️ Drives prospective users to the extension with $0 ad spend!
+  - ⭐ Remain highly responsive to 300+ users when platform changes & bugs arise <br>➡️ Maintains a 5 star rating on the Chrome Web Store!
 
 
 ### [🚀 CodeHive](https://github.com/orgs/Spark-Project-Pulse/repositories)
