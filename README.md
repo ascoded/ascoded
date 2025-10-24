@@ -16,7 +16,7 @@
 
 ## Projects!
 
-### [🎵 Reverbify](https://chromewebstore.google.com/detail/reverbify-remix-music-on/bnhjfbjmbgmgllkojikabliaidpihfnp)
+### [🎵 Spotify Chrome Extension](https://chromewebstore.google.com/detail/reverbify-remix-music-on/bnhjfbjmbgmgllkojikabliaidpihfnp?utm_source=git)
 
 <br>
 
