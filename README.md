@@ -11,7 +11,7 @@
 <p>
   <a href="https://github.com/ascoded" rel="noopener noreferrer" target="_blank"><img src="imgs/github-icon.svg" alt="GitHub Icon" height="40"></a>
   <a href="https://www.linkedin.com/in/aidan-sclark/" rel="noopener noreferrer" target="_blank"><img src="imgs/linkedin-icon.svg" alt="LinkedIn Icon" height="40"></a>
- <a href="mailto:ascoclark@gmail.com" rel="noopener noreferrer" target="_blank"><img src="imgs/gmail-icon.svg" alt="Gmail Icon" height="40"></a> 
+ <a href="mailto:aidsc@bu.edu" rel="noopener noreferrer" target="_blank"><img src="imgs/gmail-icon.svg" alt="Gmail Icon" height="40"></a> 
 </p>
 
 ## Projects!
